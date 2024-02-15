@@ -1,0 +1,18 @@
+%YAML:1.0
+---
+main_mode: 0
+enemy_color: 0
+debug-b_show_src: 0
+debug-b_show_bin: 0
+debug-b_show_target: 0
+debug-b_show_armor: 0
+debug-b_show_result: 0
+debug-b_show_fps: 0
+debug-b_save_result: 0
+debug-n_save_result: 3
+debug-b_save_pic: 0
+debug-f_save_pic_inter: 1504
+debug-expore_time: 6522
+debug-b_show_center_distance: 0
+debug-b_show_dc: 0
+
